@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SeaHorse
+comment0.text=\n\ Write\ a\ description\ of\ class\ SeaHorse\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ the\ act\ method\ moves\ the\ Seahorse\ as\ follows\:\n\ \ \ left\ cursor\ key\ -\ move\ the\ seahorse\ backward\n\ \ \ right\ cursor\ key\ -\ move\ the\ seahorse\ forward\n\ \ \ up\ cursor\ key\ -\ turn\ the\ seahorse\ counter\ clockwise\ DEG_TO_TURN\n\ \ \ down\ cursor\ key\ -\ turn\ the\ seahorse\ clockwise\ DEG_TO_TURN\n
+numComments=2
